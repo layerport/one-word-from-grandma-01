@@ -1,5 +1,11 @@
 # One Word From Grandma
 
+[![make.fun](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/layerport/one-word-from-grandma-01/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/layerport/one-word-from-grandma-01/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16)
+
+Badges above show the live bounty status, rank, and reward.
+
 Entry for the make.fun bounty
 [One Word From Grandma](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16).
 
